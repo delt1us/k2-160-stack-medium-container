@@ -1,0 +1,8 @@
+   {
+     "name": "k2-160-stack-storebox",
+     "version": "0.0.1",
+     "title": "k2 160 stack storebox",
+     "author": "Deltius",
+     "factorio_version": "1.1",
+     "dependencies": ["Krastorio2"]
+   }
